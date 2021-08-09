@@ -1,11 +1,10 @@
 {
-  "user": 
-    {
-      id: 1,
-      role: "Bum",
-      Salary: "9k",
-      firstname: "Alaine"
-      lastname: "Quen"
+  "user": {
+      "id": 1,
+      "role": "Bum",
+      "Salary": "9k",
+      "firstname": "Alaine"
+      "lastname": "Quen"
     }
 }
 
